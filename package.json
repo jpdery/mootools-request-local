@@ -1,0 +1,22 @@
+{
+	"name": "mootools-request-local",
+	"description": "Enable ajax request to local file system",
+	"version": "0.0.1",
+	"main": "lib/main.js",
+	"license": "MIT",
+	"keywords": ["mootools", "request"],
+	"author": "Jean-Philippe Dery <jeanphilippe.dery@gmail.com>",
+	"bugs": "https://github.com/jpdery/mootools-request-local/issues",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/jpdery/mootools-request-local.git"
+	},
+	"dependencies": {
+
+	},
+	"devDependencies": {
+	},
+	"engines": {
+		"node": "*"
+	}
+}
